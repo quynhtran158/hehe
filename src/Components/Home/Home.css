@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Dongle", sans-serif;
+}
+.carousel-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* or use "contain" if you want to fit the image while maintaining aspect ratio */
+}
+.introduction-container {
+  padding: 0 10%;
+  padding: 20 10;
+  background-color: #fff6f6;
+}
+
+.support-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: #f875aa;
+}
+.card-body {
+  background-color: #aedefc;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: #fff6f6;
+}
+
+/* .support-text {
+
+  max-width: 100%;
+  margin: 0 auto;
+} */
+
+.introduction-container p {
+  font-size: 1.4rem;
+}
