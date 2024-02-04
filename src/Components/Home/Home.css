@@ -16,11 +16,25 @@
 }
 
 .support-container {
-  padding: 0 10%;
-  padding: 20 10;
-  background-color: #fff6f6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: #f875aa;
 }
-
 .card-body {
   background-color: #aedefc;
 }
+.card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: #fff6f6;
+}
+
+/* .support-text {
+
+  max-width: 100%;
+  margin: 0 auto;
+} */
