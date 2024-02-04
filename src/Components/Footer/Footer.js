@@ -12,7 +12,7 @@ const Footer = () => {
                 <div className="row">
                     <div className="col-md-6 col-lg-5 col-12 ft-1">
                         <h3><span>Safe</span>Route</h3>
-                        <p>We are providing safe services for disabilities, women, and children</p>
+                        <p>We're here to guide you to safety</p>
                         <div className="footer-icons">
                             <i class="fa-brands fa-facebook"></i>
                             <i class="fa-brands fa-twitter"></i>
