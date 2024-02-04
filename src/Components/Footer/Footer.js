@@ -11,8 +11,8 @@ const Footer = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-md-6 col-lg-5 col-12 ft-1">
-                        <h3><span>WiX</span>Project</h3>
-                        <p>We are creating products for social goods</p>
+                        <h3><span>Safe</span>Haven</h3>
+                        <p>We are providing safe services for disabilities, women, and children</p>
                         <div className="footer-icons">
                             <i class="fa-brands fa-facebook"></i>
                             <i class="fa-brands fa-twitter"></i>

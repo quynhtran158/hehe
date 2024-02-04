@@ -16,6 +16,7 @@ const Disability = () =>  {
                     <Form.Group as={Col} controlId="formGridEmail">
                     <Form.Label>Email</Form.Label>
                     <Form.Control type="email" placeholder="Enter email" />
+                    <Form.Control.Feedback>Looks good!</Form.Control.Feedback>
                     </Form.Group>
 
                     <Form.Group as={Col} controlId="formGridPassword">
